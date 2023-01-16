@@ -1,0 +1,52 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATtiny10"</DEVICE>
+ <WORKING_DIR>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc\tn10def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\Debug\attiny10AUDIlight.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>attiny10AUDIlight.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>attiny10AUDIlight.map</FILE>
+  <FILE>attiny10AUDIlight.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <pad1><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>17</LINE></pad1>
+  <pad2><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>18</LINE></pad2>
+  <reset><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>25</LINE></reset>
+  <portsetup><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>36</LINE></portsetup>
+  <LED_RESET><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>91</LINE></LED_RESET>
+  <mainloop><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>42</LINE></mainloop>
+  <audi><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>142</LINE></audi>
+  <delayms><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>131</LINE></delayms>
+  <blackout><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>172</LINE></blackout>
+  <bytetx><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>67</LINE></bytetx>
+  <loop0><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>69</LINE></loop0>
+  <ten66ns><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>85</LINE></ten66ns>
+  <loop1><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>94</LINE></loop1>
+  <delay><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>102</LINE></delay>
+  <delay1><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>111</LINE></delay1>
+  <dd><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>106</LINE></dd>
+  <ddd><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>114</LINE></ddd>
+  <ms1><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>121</LINE></ms1>
+  <msloop><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>124</LINE></msloop>
+  <delaymsloop><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>133</LINE></delaymsloop>
+  <audiloop><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>146</LINE></audiloop>
+  <allon><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>167</LINE></allon>
+  <orangeloop><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>155</LINE></orangeloop>
+  <sendblack><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>185</LINE></sendblack>
+  <sendorange><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>193</LINE></sendorange>
+  <boloop><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\attiny10AUDIlight\attiny10AUDIlight\main.asm</FILE><LINE>174</LINE></boloop>
+ </LABELS>
+</ASSEMBLER_INFO>
